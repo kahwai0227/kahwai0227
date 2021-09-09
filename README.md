@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kahwai0227
 - 👀 I’m interested in Unity Game Development
 - 🌱 I’m currently learning how to make a game
-- 💞️ I’m looking to collaborate on learning
+- 💞️ I’m looking to collaborate on learning about programming
 - 📫 kahwai0227@gmail.com or follow me on instagram https://www.instagram.com/kahwaikhoo/
 
 <!---
